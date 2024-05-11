@@ -1,0 +1,25 @@
+#header {
+    display: flex;
+    align-items:center;
+    background-color: blue;
+    font-style: Bold;
+    
+   }
+.link ul li{
+    display:inline-block;
+    list-style: none;
+    
+}
+.link ul li a {
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+.link a:hover {
+    width: 100;
+    color: white;
+   
+}
+.link a::after{
+    display: inline-block;
+}

@@ -1,0 +1,15 @@
+body{
+    background:blue;
+}
+h1{
+    color: rgb(76, 249, 19);
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    color:tomato ;
+    font:bold;
+}
+input{
+    background-color: red;
+    color:white;
+}
